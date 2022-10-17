@@ -1,4 +1,5 @@
 # Calculator
-Calculator made using CSS and Js with some animations 
+Calculator made using CSS and Js with some animations.    
+
 I have used css animations to make it look better.
-I have added a gradient background.
+I have also added a gradient background.
